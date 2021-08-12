@@ -1,0 +1,37 @@
+{
+  "basketId": 1,
+  "bktPrice": 10,
+  "boxes": [
+    {
+      "boxId": 1,
+      "boxPrice": 20,
+      "boxes": [
+        {
+          "boxId": 2,
+          "boxPrice": 30,
+          "fruits": [
+            {
+              "fruitId": 3,
+              "fruitName": "beetroot",
+              "price": 30
+            }
+
+          ] }
+      ],
+      "fruits": [
+        {
+          "fruitId": 1,
+          "fruitName": "apple",
+          "price": 20
+        }
+      ]
+    }
+  ],
+  "fruits": [
+    {
+      "fruitId": 2,
+      "fruitName": "banana",
+      "price": 15
+    }
+  ]
+}
